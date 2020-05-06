@@ -1,0 +1,16 @@
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.deps.json
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.dll
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\ref\Lab06.dll
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.pdb
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.csprojAssemblyReference.cache
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfoInputs.cache
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfo.cs
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.dll
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ref\Lab06.dll
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.pdb
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListGroup.xaml.g.cs
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListView.xaml.g.cs
+E:\Archivos\Archivos Tecsup\Aplicaciones Móviles Multiplataforma - C15 5to A - L\Labs_Tecsup\Lab06\Lab06\Lab06\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
